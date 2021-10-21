@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Computer Programmer from Bangladesh</h3>
 
 
-## 🙋‍♂️ About Me
+### About Me:
 
 - I’m currently working on **[HashTav](https://www.hashtav.com)**
 
@@ -18,9 +18,9 @@
 
 - Fun fact **I love Photography and go to tour very often.**
 
-## 🚀 Languages and Tools:
+### Skilled Programming, Scripting and Markup Languages:
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/40/000000/css3.png"/>
     <img src="https://img.icons8.com/color/40/000000/sass.png"/>
@@ -41,11 +41,20 @@
     <img src="https://img.icons8.com/external-becris-flat-becris/40/000000/external-r-data-science-becris-flat-becris.png"/>
     <img src="https://img.icons8.com/dusk/40/000000/scala.png"/>
     <img src="https://img.icons8.com/plasticine/40/000000/bash.png"/>
-    <img src="https://img.icons8.com/color/40/000000/powershell.png"/>
-    
+    <img src="https://img.icons8.com/color/40/000000/powershell.png"/>   
 </p>
 
-##
+### Skilled Frameworks and Libraries:
+
+<p align=center>
+    <img src="https://img.icons8.com/windows/40/4a90e2/nodejs.png"/>
+    <img src="https://img.icons8.com/office/40/000000/react.png"/>
+    <img src="https://img.icons8.com/ios-filled/40/4a90e2/jquery.png"/>
+    <img src="https://img.icons8.com/ios-filled/40/4a90e2/angularjs.png"/>
+    <img src="https://img.icons8.com/color/40/4a90e2/vue-js.png"/>
+
+
+### My Github Streak
 
 <p align="center">
     <a href="https://github.com/mdrakibulislam-zero/github-readme-streak-stats">
@@ -53,7 +62,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+### My Github Stats
 
 <p align="center"><a href="https://github.com/mdrakibulislam-zero/github-readme-stats"><img alt="Md. Rakibul Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
@@ -69,17 +78,17 @@
 <br/>
 <br/>
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mdrakibulislam-zero/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/mdrakibulislam-zero/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/40/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/40/000000/youtube-play.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
+### Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero">
 </a>
