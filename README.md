@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/mdrakibulislam-zero/mdrakibulislam-zero/blob/main/Author.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I'm a Computer Programmer from Bangladesh</h3>
