@@ -112,25 +112,25 @@
 - UX/UI Design
 
 
-## My Github Streak:
+## My GitHub Streak:
 
 <p align="center">
-<a href="https://github.com/mdrakibulislam-zero/github-readme-streak-stats">
-<img title="Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=nord&hide_border=true&stroke=0000&background=2E3440" /></a></p>
+<a href="#">
+<img title="GitHub Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=nord&hide_border=true&stroke=0000" /></a></p>
 
 
-## My Github Stats:
+## My GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/mdrakibulislam-zero/github-readme-stats">
-<img title="Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2E3440" /></a></p>
+<a href="#">
+<img title="GitHub Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=nord&hide_border=true" /></a></p>
 
 
 ## My Most Used Languages:
 
 <p align="center">
-<a href="https://github.com/mdrakibulislam-zero/github-readme-stats">
-<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=2E3440" /></a>
+<a href="#">
+<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=10&count_private=true&theme=nord&hide_border=true" /></a>
 <br/>
 <b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
 
@@ -138,8 +138,8 @@
 ## My Contribution Graph:
 
 <p align="Center">
-<a href="https://github.com/mdrakibulislam-zero/github-readme-activity-graph">
-<img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<a href="#">
+<img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&theme=nord&hide_border=true" /></a></p>
 
 
 ## Connect With Me:
@@ -157,7 +157,7 @@
 
 ## Views and Followers:
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero"></a>
-<a href="https://github.com/mdrakibulislam-zero?tab=followers">
+<a href="#">
+<img src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero" alt="GitHub Badge"></a>
+<a href="#">
 <img src="https://img.shields.io/github/followers/mdrakibulislam-zero?label=Followers&style=social" alt="GitHub Badge"></a>
