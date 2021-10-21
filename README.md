@@ -116,21 +116,21 @@
 
 <p align="center">
 <a href="https://github.com/mdrakibulislam-zero/github-readme-streak-stats">
-<img title="Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a></p>
+<img title="Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=nord&hide_border=true&stroke=0000&background=2E3440" /></a></p>
 
 
 ## My Github Stats:
 
 <p align="center">
 <a href="https://github.com/mdrakibulislam-zero/github-readme-stats">
-<img title="Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<img title="Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2E3440" /></a></p>
 
 
 ## My Most Used Languages:
 
 <p align="center">
 <a href="https://github.com/mdrakibulislam-zero/github-readme-stats">
-<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=2E3440" /></a>
 <br/>
 <b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
 
