@@ -119,6 +119,7 @@
 - Telecommunications
 - Internet of Things
 - Robotics
+- Digital Marketing
 
 
 ## Specialized Fields:
