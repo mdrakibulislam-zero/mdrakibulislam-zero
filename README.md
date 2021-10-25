@@ -3,6 +3,24 @@
 <h1 align="center">Hi, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I'm a Computer Programmer from Bangladesh</h3>
 
+<p align="center">
+<a href = "#"><img title="Facebook" src="https://img.icons8.com/fluency/35/4a90e2/facebook.png" /></a>
+<a href = "#"><img title="Instagram" src="https://img.icons8.com/fluency/35/4a90e2/instagram-new.png" /></a>
+<a href = "#"><img title="WhatsApp" src="https://img.icons8.com/fluency/35/4a90e2/whatsapp.png" /></a>
+<a href = "#"><img title="Telegram" src="https://img.icons8.com/color/35/000000/telegram-app--v1.png" /></a>
+<a href = "https://www.linkedin.com/in/mdrakibulislam-zero/"><img title="LinkedIn" src="https://img.icons8.com/color/35/4a90e2/linkedin.png" /></a>
+<a href = "#"><img title="Twitter" src="https://img.icons8.com/ios-filled/35/4a90e2/twitter.png" /></a>
+<a href = "#"><img title="Skype" src="https://img.icons8.com/color/35/4a90e2/skype.png" /></a>
+<a href = "#"><img title="YouTube" src="https://img.icons8.com/fluency/35/4a90e2/youtube-play.png" /></a>
+</p>
+
+<p align="center">
+<a href="#">
+<img title="Profile views" src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero" alt="GitHub Badge"></a>
+<a href="#">
+<img title="Followers" src="https://img.shields.io/github/followers/mdrakibulislam-zero?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="#">
+<img title="Contributions" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?label=Contributions&query=totalContributions&url=https://github-readme-streak-stats.herokuapp.com?user=mdrakibulislam-zero%26type=json" alt="GitHub Badge"></a></p>
 
 ## About Me:
 
@@ -140,26 +158,3 @@
 <p align="Center">
 <a href="#">
 <img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&theme=nord&hide_border=true" /></a></p>
-
-
-## Connect With Me:
-
-<p align="center">
-<a href = "#"><img title="Facebook" src="https://img.icons8.com/fluency/35/4a90e2/facebook.png" /></a>
-<a href = "#"><img title="Instagram" src="https://img.icons8.com/fluency/35/4a90e2/instagram-new.png" /></a>
-<a href = "#"><img title="WhatsApp" src="https://img.icons8.com/fluency/35/4a90e2/whatsapp.png" /></a>
-<a href = "#"><img title="Skype" src="https://img.icons8.com/color/35/4a90e2/skype.png" /></a>
-<a href = "https://www.linkedin.com/in/mdrakibulislam-zero/"><img title="LinkedIn" src="https://img.icons8.com/color/35/4a90e2/linkedin.png" /></a>
-<a href = "#"><img title="Twitter" src="https://img.icons8.com/ios-filled/35/4a90e2/twitter.png" /></a>
-<a href = "#"><img title="YouTube" src="https://img.icons8.com/fluency/35/4a90e2/youtube-play.png" /></a>
-</p>
-
-
-## Views and Followers:
-
-<a href="#">
-<img title="Profile views" src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero" alt="GitHub Badge"></a>
-<a href="#">
-<img title="Followers" src="https://img.shields.io/github/followers/mdrakibulislam-zero?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="#">
-<img title="Contributions" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?label=Contributions&query=totalContributions&url=https://github-readme-streak-stats.herokuapp.com?user=mdrakibulislam-zero%26type=json" alt="GitHub Badge"></a>
