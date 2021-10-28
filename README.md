@@ -148,13 +148,42 @@
   <tr>
     <td>AI Virtual Keyboard</td>
     <td>This is a simple virtual keyboard that works with gestures using OpenCV. We will use our hand in the air to click on the keyboard.</td>
-    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualKeyboard">ClickMe</a></td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualKeyboard" target="blank">ClickMe</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>AI Virtual Quiz Game</td>
     <td>This is a simple virtual quiz game that works with gestures using OpenCV. We will import all the questions using a csv file and then use our hand in the air to answer them.</td>
-      <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame">ClickMe</a></td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame" target="blank">ClickMe</a></td>
   </tr>
+</table>
+
+>Web Projects:
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Abstract</th>
+    <th>GitHub Links</th>
+    <th>Web Links</th>
+  </tr>
+  <tr>
+    <td>Web Basic Calculator</td>
+    <td>This is a simple basic calculator based on Web which made with HTML, CSS and JavaScript.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebBasicCalculator" target="blank">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebBasicCalculator/" target="blank">ClickMe</a></td>
+  </tr>
+  <tr>
+    <td>Web Music Player</td>
+    <td>This is a simple music player based on Web which made with HTML, CSS and JavaScript.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebMusicPlayer" target="blank">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebMusicPlayer/" target="blank">ClickMe</a></td>
+  </tr>
+  <tr>
+    <td>Web AI Tic-Tac-Toe Game</td>
+    <td>This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebAITicTacToeGame" target="blank">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebAITicTacToeGame/" target="blank">ClickMe</a></td>
+  </tr>  
 </table>
 
 
