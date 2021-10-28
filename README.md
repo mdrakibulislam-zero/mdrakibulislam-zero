@@ -145,6 +145,16 @@
     <th>Abstract</th>
     <th>GitHub Links</th>
   </tr>
+  <tr>
+    <td>AI Virtual Keyboard</td>
+    <td>This is a simple virtual keyboard that works with gestures using OpenCV. We will use our hand in the air to click on the keyboard.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualKeyboard">ClickMe</a></td>
+  </tr>
+    <tr>
+    <td>AI Virtual Quiz Game</td>
+    <td>This is a simple virtual quiz game that works with gestures using OpenCV. We will import all the questions using a csv file and then use our hand in the air to answer them.</td>
+      <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame">ClickMe</a></td>
+  </tr>
 </table>
 
 
