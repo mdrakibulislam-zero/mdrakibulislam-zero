@@ -135,6 +135,19 @@
 - UX/UI Design
 
 
+## My Projects Box:
+
+>Python Projects:
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Abstract</th>
+    <th>GitHub Links</th>
+  </tr>
+</table>
+
+
 ## My GitHub Streak:
 
 <p align="center">
