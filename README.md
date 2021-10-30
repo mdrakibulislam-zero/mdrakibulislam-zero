@@ -120,7 +120,6 @@
 - Data Science
 - Cyber Security
 - Networking
-- Telecommunications
 - Internet of Things
 - Robotics
 - Digital Marketing
