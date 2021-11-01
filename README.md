@@ -1,6 +1,5 @@
 <p align="center">
-<a href="#"><img width="200px" height="auto" title="Author" alt="Author" src="https://github.com/mdrakibulislam-zero/mdrakibulislam-zero/blob/main/Author.png" /></a>
-</p>
+<a href="#"><img width="200px" height="auto" title="Author" alt="Author" src="https://github.com/mdrakibulislam-zero/mdrakibulislam-zero/blob/main/Author.png" /></a></p>
 
 <h1 align="center">Hi, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I'm a Computer Programmer from Bangladesh</h3>
@@ -167,22 +166,28 @@
   </tr>
   <tr>
     <td>Basic Calculator</td>
-    <td>This is a simple basic calculator based on Web which made with HTML, CSS and JavaScript.</td>
+    <td>This is a simple basic calculator based on Web which made with HTML, CSS and JavaScript. It's able to do the basic mathematical calculations.</td>
     <td><a href="https://github.com/mdrakibulislam-zero/WebBasicCalculator">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebBasicCalculator/">Web</a></td>
   </tr>
   <tr>
     <td>Music Player</td>
-    <td>This is a simple music player based on Web which made with HTML, CSS and JavaScript.</td>
+    <td>This is a simple music player based on Web which made with HTML, CSS and JavaScript. It's able to play music from the added directory.</td>
     <td><a href="https://github.com/mdrakibulislam-zero/WebMusicPlayer">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebMusicPlayer/">Web</a></td>
   </tr>
   <tr>
     <td>AI Tic-Tac-Toe Game</td>
-    <td>This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS.</td>
+    <td>This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS. It's AI is able to play game with you and It's very hard to beat even I think you can never beat it.</td>
     <td><a href="https://github.com/mdrakibulislam-zero/WebAITicTacToeGame">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebAITicTacToeGame/">Web</a></td>
-  </tr>  
+  </tr>
+    <tr>
+    <td>Snake Game</td>
+    <td>This is a simple snake game based on Web which made with HTML, CSS and JavaScript. It's able to count your score.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebSnakeGame">GitHub</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebSnakeGame/">Web</a></td>
+  </tr> 
 </table>
 
 
