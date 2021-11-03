@@ -133,6 +133,36 @@
 - UX/UI Design
 
 
+## My GitHub Streak:
+
+<p align="center">
+<a href="#">
+<img title="GitHub Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=nord&hide_border=true&stroke=0000" /></a></p>
+
+
+## My GitHub Stats:
+
+<p align="center">
+<a href="#">
+<img title="GitHub Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=nord&hide_border=true" /></a></p>
+
+
+## My Most Used Languages:
+
+<p align="center">
+<a href="#">
+<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=10&count_private=true&theme=nord&hide_border=true" /></a>
+<br/>
+<b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
+
+
+## My Contribution Graph:
+
+<p align="Center">
+<a href="#">
+<img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&theme=nord&hide_border=true" /></a></p>
+
+
 ## My Projects Box:
 
 >Python Projects:
@@ -201,33 +231,3 @@
     <td><a href="https://mdrakibulislam-zero.github.io/WebGitHubUserSearch/">Web</a></td>
   </tr>
 </table>
-
-
-## My GitHub Streak:
-
-<p align="center">
-<a href="#">
-<img title="GitHub Streak" alt="Md. Rakibul Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibulislam-zero&theme=nord&hide_border=true&stroke=0000" /></a></p>
-
-
-## My GitHub Stats:
-
-<p align="center">
-<a href="#">
-<img title="GitHub Stats" alt="Md. Rakibul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdrakibulislam-zero&show_icons=true&count_private=true&theme=nord&hide_border=true" /></a></p>
-
-
-## My Most Used Languages:
-
-<p align="center">
-<a href="#">
-<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=10&count_private=true&theme=nord&hide_border=true" /></a>
-<br/>
-<b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
-
-
-## My Contribution Graph:
-
-<p align="Center">
-<a href="#">
-<img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&theme=nord&hide_border=true" /></a></p>
