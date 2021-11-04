@@ -230,4 +230,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebGitHubUserSearch">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebGitHubUserSearch/">Web</a></td>
   </tr>
+  <tr>
+    <td>Notes App</td>
+    <td>This is a simple note taking app based on Web which made with HTML, CSS and JavaScript. It's able to save your notes in your local storage.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebNotesApp">GitHub</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebNotesApp/">Web</a></td>
+  </tr>
 </table>
