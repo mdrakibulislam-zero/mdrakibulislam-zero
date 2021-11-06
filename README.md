@@ -242,4 +242,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebCurrencyConverter">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebCurrencyConverter/">Web</a></td>
   </tr>
+  <tr>
+    <td>Quiz App</td>
+    <td>This is a simple quiz app based on Web which made with HTML, CSS and JavaScript. It's able to count your score.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebQuizApp">GitHub</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebQuizApp/">Web</a></td>
+  </tr>
 </table>
