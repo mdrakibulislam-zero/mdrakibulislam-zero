@@ -248,4 +248,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebQuizApp">GitHub</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebQuizApp/">Web</a></td>
   </tr>
+  <tr>
+    <td>Password Generator</td>
+    <td>This is a simple random password generator based on Web which made with HTML, CSS and JavaScript. It's able to generate very strong passwords.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebPasswordGenerator">GitHub</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebPasswordGenerator/">Web</a></td>
+  </tr>
 </table>
