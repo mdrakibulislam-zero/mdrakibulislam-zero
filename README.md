@@ -183,6 +183,11 @@
     <td>This is a simple virtual quiz game that works with gestures using OpenCV. We will import all the questions using a csv file and then use our hand in the air to answer them.</td>
     <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame">GitHub</a></td>
   </tr>
+  <tr>
+    <td>System Information</td>
+    <td>This is a simple system information finder program based on Python. It's able to find lots of system information.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/PythonSystemInformation">GitHub</a></td>
+  </tr>
 </table>
 
 >Web Projects:
