@@ -13,4 +13,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebBasicCalculator">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebBasicCalculator/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Music Player</td>
+    <td>This is a simple music player based on Web which made with HTML, CSS and JavaScript. It's able to play music from the added directory.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebMusicPlayer">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebMusicPlayer/">Visit</a></td>
+  </tr>
 </table>
