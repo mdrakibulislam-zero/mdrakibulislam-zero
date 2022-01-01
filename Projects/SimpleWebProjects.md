@@ -19,4 +19,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebMusicPlayer">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebMusicPlayer/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Notes App</td>
+    <td>This is a simple note taking app based on Web which made with HTML, CSS and JavaScript. It's able to save notes in browsers.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebNotesApp">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebNotesApp/">Visit</a></td>
+  </tr>
 </table>
