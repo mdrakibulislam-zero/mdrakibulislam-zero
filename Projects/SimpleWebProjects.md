@@ -31,4 +31,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebPaintingApp">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebPaintingApp/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Currency Converter</td>
+    <td>This is a simple currency converter based on Web which made with HTML, CSS and JavaScript. It's able to convert 168 countries currency real time.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebCurrencyConverter">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebCurrencyConverter/">Visit</a></td>
+  </tr>
 </table>
