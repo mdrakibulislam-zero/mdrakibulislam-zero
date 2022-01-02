@@ -37,4 +37,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebCurrencyConverter">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebCurrencyConverter/">Visit</a></td>
   </tr>
+  <tr>
+    <td>GitHub User Search</td>
+    <td>This is a simple GitHub user informations finder program based on Web which made with HTML, CSS and JavaScript. It's able to search GitHub user profiles and informations by username.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebGitHubUserSearch">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebGitHubUserSearch/">Visit</a></td>
+  </tr>
 </table>
