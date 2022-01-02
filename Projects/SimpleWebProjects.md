@@ -61,4 +61,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebQuizApp">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebQuizApp/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Word Counter</td>
+    <td>This is a simple word counter program based on Web which made with HTML, CSS and JavaScript. It's able count the number of characters, words, sentences and paragraphs.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebWordCounter">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebWordCounter/">Visit</a></td>
+  </tr>
 </table>
