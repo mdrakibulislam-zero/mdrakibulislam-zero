@@ -55,4 +55,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebPasswordGenerator">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebPasswordGenerator/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Quiz App</td>
+    <td>This is a simple quiz app based on Web which made with HTML, CSS and JavaScript. It's able to count scores.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebQuizApp">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebQuizApp/">Visit</a></td>
+  </tr>
 </table>
