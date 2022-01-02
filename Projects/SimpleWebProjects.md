@@ -49,4 +49,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebCounterApp">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebCounterApp/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Password Generator</td>
+    <td>This is a simple random password generator based on Web which made with HTML, CSS and JavaScript. It's able to generate very strong passwords with 4-32 characters.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebPasswordGenerator">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebPasswordGenerator/">Visit</a></td>
+  </tr>
 </table>
