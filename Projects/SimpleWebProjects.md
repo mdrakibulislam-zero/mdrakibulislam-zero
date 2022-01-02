@@ -43,4 +43,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebGitHubUserSearch">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebGitHubUserSearch/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Counter App</td>
+    <td>This is a simple counter app based on Web which made with HTML, CSS and JavaScript. It's able count positive and negative both types of number.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebCounterApp">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebCounterApp/">Visit</a></td>
+  </tr>
 </table>
