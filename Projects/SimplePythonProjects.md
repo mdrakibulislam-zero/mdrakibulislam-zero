@@ -31,4 +31,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/PythonMatrixCalculator">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>System Information</td>
+    <td>This is a simple system information finder program based on Python. It's able to find CPU, GPU, Network, Memory, Disk and others system information.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/PythonSystemInformation">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
