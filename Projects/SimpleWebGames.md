@@ -13,4 +13,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebFlappyBlockGame">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebFlappyBlockGame/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Shooting Game</td>
+    <td>This is a simple shooting game based on Web which made with HTML, CSS and JavaScript. It's able to count your score.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebShootingGame">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebShootingGame/">Visit</a></td>
+  </tr>
 </table>
