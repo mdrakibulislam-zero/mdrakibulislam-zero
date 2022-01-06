@@ -25,4 +25,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebTetrisGame">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebTetrisGame/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Tic-Tac-Toe Game</td>
+    <td>This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS. It's AI is able to play game with users.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebTicTacToeGame">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebTicTacToeGame/">Visit</a></td>
+  </tr>
 </table>
