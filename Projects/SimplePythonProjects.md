@@ -25,4 +25,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/PythonHotelManagement">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>Matrix Calculator</td>
+    <td>This is a simple matrix calculator program based on Python. It's able to do basic calculations of matrix.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/PythonMatrixCalculator">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
