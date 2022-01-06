@@ -31,4 +31,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebTicTacToeGame">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebTicTacToeGame/">Visit</a></td>
   </tr>
+  <tr>
+    <td>Snake Game</td>
+    <td>This is a simple snake game based on Web which made with HTML, CSS and JavaScript. It's able to count your score.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebSnakeGame">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebSnakeGame/">Visit</a></td>
+  </tr>
 </table>
