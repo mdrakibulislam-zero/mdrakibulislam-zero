@@ -31,4 +31,10 @@
     <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>Virtual Keyboard</td>
+    <td>This is a simple virtual keyboard that works with gestures using OpenCV. We will use our hand in the air to click on the keyboard.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualKeyboard">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
