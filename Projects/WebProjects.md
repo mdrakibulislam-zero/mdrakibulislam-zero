@@ -1,4 +1,4 @@
-<h2 align="center">Simple Web-Based Projects</h2>
+<h2 align="center">Web-Based Projects</h2>
 
 <table>
   <tr>
