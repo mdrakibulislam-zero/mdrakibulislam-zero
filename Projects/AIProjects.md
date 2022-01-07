@@ -1,4 +1,4 @@
-<h2 align="center">Simple AI-Based Projects</h2>
+<h2 align="center">AI-Based Projects</h2>
 
 <table>
   <tr>
@@ -23,6 +23,12 @@
     <td>Pose Estimation</td>
     <td>This is a simple pose estimation program based on Artificial intelligence which made with Python. It's able to detect the position and orientation of an object.</td>
     <td><a href="https://github.com/mdrakibulislam-zero/AIPoseEstimation">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
+  <tr>
+    <td>Virtual Quiz Game</td>
+    <td>This is a simple virtual quiz game that works with gestures using OpenCV. We will import all the questions using a csv file and then use our hand in the air to answer them.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualQuizGame">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
 </table>
