@@ -1,4 +1,4 @@
-<h2 align="center">Simple Python-Based Projects</h2>
+<h2 align="center">Python-Based Projects</h2>
 
 <table>
   <tr>
