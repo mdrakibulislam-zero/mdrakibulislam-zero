@@ -50,4 +50,11 @@
     <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualCalculator">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>07</td>
+    <td>Face Mesh</td>
+    <td>This is a simple face mesh detection program based on Artificial Intelligence which made with Python. It's able to detect 468 different landmarks on faces.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIFaceMesh">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
