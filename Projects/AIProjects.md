@@ -43,4 +43,11 @@
     <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualKeyboard">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>06</td>
+    <td>Virtual Calculator</td>
+    <td>This is a simple virtual calculator that works with gestures using OpenCV. We will use our hand in the air to click on the calculator.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIVirtualCalculator">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
