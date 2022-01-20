@@ -57,4 +57,25 @@
     <td><a href="https://github.com/mdrakibulislam-zero/AIFaceMesh">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>08</td>
+    <td>Face Distance</td>
+    <td>This is a simple face distance measurement program based on Artificial intelligence which made with Python. It's able to measure the distance between face and camera.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIFaceDistance">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>Hand Distance</td>
+    <td>This is a simple Hand distance measurement program based on Artificial intelligence which made with Python. It's able to measure the distance between hand and camera.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIHandDistance">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Dynamic Text Reader</td>
+    <td>This is a simple dynamic text reader based on Artificial intelligence which made with Python. It's able to change the text size depending on face and camera distance.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AIDynamicTextReader">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
