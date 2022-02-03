@@ -106,4 +106,11 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebWeightConverter">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebWeightConverter/">Visit</a></td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>Text To Binary Converter</td>
+    <td>This is a simple text to binary converter based on Web which made with HTML, CSS and JavaScript. It's able to convert all ASCII text to binary values.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebTextToBinaryConverter">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebTextToBinaryConverter/">Visit</a></td>
+  </tr>
 </table>
