@@ -151,7 +151,7 @@
 
 <p align="center">
 <a href="#">
-<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=10&count_private=true&theme=nord&hide_border=true" /></a>
+<img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibulislam-zero&langs_count=30&count_private=true&theme=nord&hide_border=true" /></a>
 <br/>
 <b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
 
