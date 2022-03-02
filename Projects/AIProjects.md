@@ -78,4 +78,11 @@
     <td><a href="https://github.com/mdrakibulislam-zero/AIDynamicTextReader">ClickMe</a></td>
     <td><a href="#">View</a></td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>3D Object Detection</td>
+    <td>This is a simple 3D object detection program based on Artificial Intelligence which made with Python. It's able to detect 3D objects from given models.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/AI3DObjectDetection">ClickMe</a></td>
+    <td><a href="#">View</a></td>
+  </tr>
 </table>
