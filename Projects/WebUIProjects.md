@@ -66,4 +66,11 @@
     <td><a href="https://github.com/mdrakibulislam-zero/WebUICardV1">ClickMe</a></td>
     <td><a href="https://mdrakibulislam-zero.github.io/WebUICardV1/">Visit</a></td>
   </tr>
+  <tr>
+    <td>02</td>
+    <td>Card-V2</td>
+    <td>This is a simple card user interface design based on Web. It is a very simple and refreshing web card with nice text effect on hover.</td>
+    <td><a href="https://github.com/mdrakibulislam-zero/WebUICardV2">ClickMe</a></td>
+    <td><a href="https://mdrakibulislam-zero.github.io/WebUICardV2/">Visit</a></td>
+  </tr>
 <table>
